@@ -4,7 +4,6 @@
 ###### - Manages incoming remote node messages using a Queue.
 ###### - Generates a Merkle Tree and an eventual Merkle Root as part of Transaction processing.
 ###### - Creates Blockchain Blocks using Proof of Work algorithm.
-###### - Creates Blockchain Blocks using Proof of Work algorithm.
 
 ![Blockchain](Blockchain.jpg)
 
